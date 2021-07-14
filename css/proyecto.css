@@ -1,0 +1,17 @@
+html, body{
+    height: 100%;
+}
+body{
+    padding: 0;
+    margin: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+html, div{
+    height: 100%;
+}
+div{
+    padding: 0;
+    margin: 0px;
+    font-family: cursive;
+    color: rgb(209, 30, 30);
+}
